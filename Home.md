@@ -1,5 +1,11 @@
 # Maiztro Ops
 
+```button
+name 💡 New Idea
+type command
+action QuickAdd: New Idea
+```
+
 ## Active projects
 
 ```dataview
