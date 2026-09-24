@@ -1,0 +1,428 @@
+{
+  "main": {
+    "id": "88b9e2aa42d3939f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a779187a74a43c9a",
+        "type": "split",
+        "children": [
+          {
+            "id": "af5fd453372ee59a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b02effdacdc0de44",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "00-Home"
+                }
+              }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "1c48da189dfb9094",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "83c585878bcab68e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ideas/Use DeView as open source give to gain followers.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Use DeView as open source give to gain followers"
+                }
+              },
+              {
+                "id": "2adbfd1b5cc61556",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00-Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "00-Home"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee9353d7b3bf0ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c4e64150392f021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cec383402c0a50b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27ec62fb97cc8408",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9bfe889271e4e928",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5bcdbd693ac34696",
+    "type": "split",
+    "children": [
+      {
+        "id": "60b52660f7ad8983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ca90bc3be620d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Bloom Early Learning Center.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5a1df4a82e3c0880",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Bloom Early Learning Center.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "49be90444532f187",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d87cc5bcc8b449a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "22314f3f17eea636",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Bloom Early Learning Center.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e85cdfdf0fbcd250",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
+            }
+          },
+          {
+            "id": "e3591930ad0038f6",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-edit-form-view",
+              "state": {
+                "title": "New Idea",
+                "name": "idea_intake",
+                "fields": [
+                  {
+                    "name": "title",
+                    "label": "Idea Title",
+                    "description": "",
+                    "isRequired": true,
+                    "input": {
+                      "type": "text",
+                      "hidden": false
+                    }
+                  },
+                  {
+                    "name": "idea",
+                    "label": "Details",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "text",
+                      "hidden": false
+                    }
+                  },
+                  {
+                    "name": "project",
+                    "label": "Project",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "folder",
+                      "parentFolder": "Projects"
+                    }
+                  },
+                  {
+                    "name": "status",
+                    "label": "Status",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "select",
+                      "source": "fixed",
+                      "options": [
+                        {
+                          "value": "Do!",
+                          "label": "do"
+                        },
+                        {
+                          "value": "Research",
+                          "label": "research"
+                        },
+                        {
+                          "value": "Maybe",
+                          "label": "maybe"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "name": "type",
+                    "label": "Type",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "select",
+                      "source": "fixed",
+                      "options": [
+                        {
+                          "value": "Project Feature",
+                          "label": "feature"
+                        },
+                        {
+                          "value": "New Product",
+                          "label": "product"
+                        },
+                        {
+                          "value": "Strategy",
+                          "label": "strategy"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "name": "created",
+                    "label": "",
+                    "description": "",
+                    "isRequired": false,
+                    "input": {
+                      "type": "datetime",
+                      "hidden": false
+                    }
+                  }
+                ],
+                "version": "1",
+                "template": {
+                  "createInsertCommand": false,
+                  "createNoteCommand": true,
+                  "parsedTemplate": [
+                    {
+                      "_tag": "text",
+                      "value": "---\ntype: "
+                    },
+                    {
+                      "_tag": "variable",
+                      "value": "type"
+                    },
+                    {
+                      "_tag": "text",
+                      "value": "\nproject: \"[["
+                    },
+                    {
+                      "_tag": "variable",
+                      "value": "project"
+                    },
+                    {
+                      "_tag": "text",
+                      "value": "]]\"\nstatus: "
+                    },
+                    {
+                      "_tag": "variable",
+                      "value": "status"
+                    },
+                    {
+                      "_tag": "text",
+                      "value": "\ncreated: "
+                    },
+                    {
+                      "_tag": "variable",
+                      "value": "created"
+                    },
+                    {
+                      "_tag": "text",
+                      "value": "\n---\n\n# "
+                    },
+                    {
+                      "_tag": "variable",
+                      "value": "title"
+                    },
+                    {
+                      "_tag": "text",
+                      "value": "\n\n## Details\n"
+                    },
+                    {
+                      "_tag": "variable",
+                      "value": "idea"
+                    },
+                    {
+                      "_tag": "text",
+                      "value": "\n\n## Promoted to\n"
+                    }
+                  ]
+                }
+              },
+              "icon": "note-glyph",
+              "title": "Edit form"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 521.52734375,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "modalforms:Edit forms": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "b02effdacdc0de44",
+  "lastOpenFiles": [
+    "Ideas/Git test.md",
+    "00-Home.md",
+    "Ideas/Use DeView as open source give to gain followers.md",
+    "Projects/Bloom Early Learning Center.md",
+    "Ideas/2026-09-23-214035.md",
+    "Ideas/2026-09-23-214017.md",
+    "Ideas/Rockrfellr.md",
+    "Templates/Idea Template (QuickAdd).md",
+    "Tasks/Decide Joba-Fett kickoff.md",
+    "Ideas/Joba-Fett account creation bot.md",
+    "Projects/Test.md",
+    "Templates/Idea Template.md",
+    "Ideas"
+  ]
+}
