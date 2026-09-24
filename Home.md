@@ -30,9 +30,8 @@ SORT due ASC
 ## Idea drop
 
 ```dataview
-TABLE kind AS Kind, project AS Project, status AS Status, created AS Dropped
+TABLE type AS Type, project AS Project, status AS Status, created AS Dropped
 FROM "Ideas"
-WHERE type = "idea"
 SORT created DESC
 ```
 
