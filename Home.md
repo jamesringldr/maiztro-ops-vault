@@ -27,6 +27,15 @@ WHERE type = "task" AND status != "done"
 SORT due ASC
 ```
 
+## Idea drop
+
+```dataview
+TABLE project AS Project, created AS Dropped
+FROM "Ideas"
+WHERE type = "idea" AND status = "inbox"
+SORT created DESC
+```
+
 ## Done recently
 
 ```dataview
