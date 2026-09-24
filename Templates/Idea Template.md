@@ -1,6 +1,5 @@
 ---
-type: idea
-kind:
+type:
 project:
 status: do
 created: {{date}}
