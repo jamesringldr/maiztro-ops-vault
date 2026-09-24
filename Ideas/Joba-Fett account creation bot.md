@@ -1,7 +1,7 @@
 ---
-type: idea
+type: Project Feature
 project: "[[Joba-Fett]]"
-status: inbox
+status: Do!
 created: 2026-09-23
 ---
 
